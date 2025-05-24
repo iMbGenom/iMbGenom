@@ -1,7 +1,5 @@
 [![Github](https://img.shields.io/github/followers/iMbGenom?label=Follow&style=social)](https://github.com/iMbGenom)
 
-- A passionate Software Engineer.
-
 <!-- GRS (Light Mode) -->
 <a href="https://github.com/iMbGenom#gh-light-mode-only">
   <table cellspacing="0" cellpadding="0">
