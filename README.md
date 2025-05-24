@@ -1,5 +1,3 @@
-### Hey 👋, I'm Alexandr
-
 [![Github](https://img.shields.io/github/followers/iMbGenom?label=Follow&style=social)](https://github.com/iMbGenom)
 
 - A passionate Software Engineer.
@@ -66,25 +64,5 @@
        src="https://github-readme-streak-stats-phi-opal.vercel.app/?user=iMbGenom&background=0d1117&currStreakNum=ffffff&sideNums=ffffff&currStreakLabel=ffffff&sideLabels=ffffff&dates=ffffff&fire=2d77dc&ring=2d77dc&locale=en&type=svg&hide_border=true&disable_animations=true"
        alt="My GitHub streak stats"
      />
-  </a>
-</div>
-
-<!-- WakaTime stats (Light mode) -->
-<div align="center">
-  <a href="https://github.com/iMbGenom#gh-light-mode-only">
-    <img
-        src="https://github-readme-stats-steel-omega.vercel.app/api/wakatime?username=iMbGenom&layout=compact&hide_border=true&custom_title=WakaTime%20Stats%20%28Since%20Feb%2024%202024%29&disable_animations=true"
-        alt="My Wakatime stats"
-      />
-  </a>
-</div>
-
-<!-- WakaTime stats (Dark mode) -->
-<div align="center">
-  <a href="https://github.com/iMbGenom#gh-dark-mode-only">
-    <img
-        src="https://github-readme-stats-steel-omega.vercel.app/api/wakatime?username=iMbGenom&layout=compact&icon_color=2d77dc&title_color=2d77dc&text_color=ffffff&bg_color=0d1117&hide_border=true&custom_title=WakaTime%20Stats%20%28Since%20Feb%2024%202024%29&disable_animations=true"
-        alt="My Wakatime stats"
-      />
   </a>
 </div>
